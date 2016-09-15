@@ -5,3 +5,5 @@ class corneliu {
     ensure => running, 
   }
 }
+
+#foo
